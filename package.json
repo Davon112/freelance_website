@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "carousel": "^0.0.3",
+    "react-bootstrap": "^2.10.4"
+  }
+}
